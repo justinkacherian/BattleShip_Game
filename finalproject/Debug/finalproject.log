@@ -1,0 +1,9 @@
+﻿  drone.cpp
+C:\Users\justi\OneDrive\CIS 4100\finalproject\finalproject\drone.cpp(17,65): warning C4804:  '<': unsafe use of type 'bool' in operation
+  main.cpp
+  robot.cpp
+C:\Users\justi\OneDrive\CIS 4100\finalproject\finalproject\drone.cpp(20,68): warning C4804:  '>': unsafe use of type 'bool' in operation
+C:\Users\justi\OneDrive\CIS 4100\finalproject\finalproject\robot.cpp(17,66): warning C4804:  '<': unsafe use of type 'bool' in operation
+  Generating Code...
+C:\Users\justi\OneDrive\CIS 4100\finalproject\finalproject\robot.cpp(20,68): warning C4804:  '>': unsafe use of type 'bool' in operation
+  finalproject.vcxproj -> C:\Users\justi\OneDrive\CIS 4100\finalproject\Debug\finalproject.exe
